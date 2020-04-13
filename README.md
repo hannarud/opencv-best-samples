@@ -1,2 +1,2 @@
 # opencv-best-samples
-Best samples fund for openCV image processing (Python)
+Best samples found for openCV image processing (Python)
