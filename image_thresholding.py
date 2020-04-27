@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 import argparse
 
 
-parser = argparse.ArgumentParser(description='Code for Changing the contrast and brightness of an image! tutorial.')
+parser = argparse.ArgumentParser(description='Image thresholding tutorial.')
 parser.add_argument('--input', help='Path to input image.', default='../data/lena.png')
 args = parser.parse_args()
 
